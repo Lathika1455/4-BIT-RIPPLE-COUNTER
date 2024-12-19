@@ -32,9 +32,11 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **PROGRAM**
 
-module exp12 (
+module exp12 
 
-    input clk,     
+(  
+
+input clk,     
     
     input reset,   
     
